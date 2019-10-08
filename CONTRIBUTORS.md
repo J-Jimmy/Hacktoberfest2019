@@ -77,4 +77,9 @@
 - Github: https://github.com/SkyC0der
 ***
 
-
+### Jimmy
+- Photo: 
+- Location: Munich, Germany
+- Bio: 💻  Web Developer . 💻 Java Developer . 📱 Android Developer . 📱 iOS Developer . 
+- Github: https://github.com/J-Jimmy
+***
